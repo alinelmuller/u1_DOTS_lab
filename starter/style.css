@@ -136,7 +136,7 @@ a {
   flex-wrap: nowrap;
 }
 
-.level-header__title,
+.level-header__title, 
 .level-header__score {
   /* width: 40%; */
 }
